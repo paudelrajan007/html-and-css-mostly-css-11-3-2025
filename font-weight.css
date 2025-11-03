@@ -1,0 +1,20 @@
+h1 {
+  color: antiquewhite;
+}
+h2 {
+  color: aqua;
+}
+p {
+  color: rgb(22, 248, 248);
+}
+
+#h1 {
+  font-weight: 900;
+}
+#h2 {
+  font-weight: 900;
+}
+
+#p {
+  font-weight: 100;
+}
