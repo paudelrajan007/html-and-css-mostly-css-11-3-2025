@@ -1,0 +1,7 @@
+p::first-letter {
+  color: aqua;
+}
+
+p::selection {
+  color: rgb(4, 4, 248);
+}
