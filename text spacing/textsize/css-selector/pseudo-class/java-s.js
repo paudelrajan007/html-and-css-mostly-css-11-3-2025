@@ -1,4 +1,4 @@
-let a = { name: "John" };
-let b = a; // b points to the same object as a
-
-console.log(a === b); // true → same object
+let x = 5;
+let y = 10;
+let total = x + y;
+console.log(total);
